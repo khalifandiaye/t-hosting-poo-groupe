@@ -1,0 +1,6 @@
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\bin\Debug\exercice_mode deconnecte_25102012.exe.config
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\bin\Debug\exercice_mode deconnecte_25102012.exe
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\bin\Debug\exercice_mode deconnecte_25102012.pdb
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\obj\x86\Debug\exercice_mode deconnecte_25102012.exe
+D:\Cours ESA\3eme\C#\projets\exercice_mode deconnecte_25102012\exercice_mode deconnecte_25102012\obj\x86\Debug\exercice_mode deconnecte_25102012.pdb
