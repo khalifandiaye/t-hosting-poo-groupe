@@ -1,0 +1,14 @@
+C:\Users\Pewalon\Desktop\THostingProject\BU\bin\Debug\BU.dll
+C:\Users\Pewalon\Desktop\THostingProject\BU\bin\Debug\BU.pdb
+C:\Users\Pewalon\Desktop\THostingProject\BU\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\THostingProject\BU\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\THostingProject\BU\obj\Debug\BU.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\THostingProject\BU\obj\Debug\BU.dll
+C:\Users\Pewalon\Desktop\THostingProject\BU\obj\Debug\BU.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\bin\Debug\BU.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\bin\Debug\BU.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\obj\Debug\BU.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\obj\Debug\BU.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\BU\obj\Debug\BU.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pewalon\Desktop\THostingProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\THostingProject\DAL\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\THostingProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\THostingProject\DAL\obj\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\THostingProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\DAL\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\DAL\obj\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\DAL\obj\Debug\DAL.pdb
