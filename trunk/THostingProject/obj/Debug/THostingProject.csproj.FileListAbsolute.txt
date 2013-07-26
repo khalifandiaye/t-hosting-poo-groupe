@@ -1,0 +1,49 @@
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\bin\Debug\THostingProject.exe.config
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\bin\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\bin\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.Mail.resources
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.MainForm.resources
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.Offer.resources
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.OrderForm.resources
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.Properties.Resources.resources
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.csproj.GenerateResource.Cache
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\T-HOSTING\THostingProject\THostingProject\obj\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\THostingProject.exe.config
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.Mail.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.MainForm.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.Offer.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.OrderForm.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.OrderMain.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.Properties.Resources.resources
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\obj\Debug\THostingProject.csproj.GenerateResource.Cache
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\BU.dll
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\BU.pdb
+C:\Users\Pewalon\Desktop\THostingProject\THostingProject\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\THostingProject.exe.config
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\THostingProject.exe
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\THostingProject.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\BU.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\DAL.dll
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\BU.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\bin\Debug\DAL.pdb
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.csprojResolveAssemblyReference.cache
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.Mail.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.MainForm.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.Offer.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.OrderForm.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.OrderMain.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.Properties.Resources.resources
+C:\Users\Pewalon\Desktop\Projet C# - Java\THostingProject\THostingProject\obj\Debug\THostingProject.csproj.GenerateResource.Cache
+D:\Cours ESA\3eme\projet c# java\THostingProject\THostingProject\bin\Debug\THostingProject.exe.config
+D:\Cours ESA\3eme\projet c# java\THostingProject\THostingProject\obj\Debug\THostingProject.exe
+D:\Cours ESA\3eme\projet c# java\THostingProject\THostingProject\obj\Debug\THostingProject.pdb
